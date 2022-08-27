@@ -1,4 +1,4 @@
-# WIS22
+# Wolfram India School 2022
 This project has been done by the author during Wolfram India School 2022 under the mentor Julián Laverde. This notebook has been done solely in the Wolfram Language predicting the electron Invariant mass from collision data.
 
 ## Abstract
